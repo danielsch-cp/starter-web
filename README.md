@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ## Final
 
 Addition for Local
+
+Addition for Staging
+
+Addition for Working Dir
